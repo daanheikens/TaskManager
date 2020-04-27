@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ruleset name="PSR-2 coding standard">
+    <description>PSR-2 coding standard</description>
+
+    <!-- Include rules of the default PSR2 coding standard -->
+    <rule ref="PSR2"/>
+
+    <config name="testVersion" value="7.4"/>
+</ruleset>
